@@ -17,7 +17,7 @@
 
 بعد از اسکن فایل فرستاده شده در واتساپ شما را با استفاده از آموزشی ک در چنل یوتیوبی گزاشتم اپلود کنید
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/Zimbot-v3-QR?v=1)  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@hellogame2/BALOCH-EDIT-V1)  
 
 روی این گزینه بزنید و شروع ب ران کنید
 
