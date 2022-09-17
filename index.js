@@ -122,25 +122,25 @@ let feler = pickRandom(doku)
                 if (anu.action == 'add') {
                 var buffer = await getBuffer(ppuser)
                 let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                he = `⚡🕊خوش آمدید به ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-                let link = `https://youtube.com/channel/UCIdvdgFwdssFC0Nxx9Xk1dQ`
+                he = ` ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+                let link = ``
 let buttons = [
-{buttonId: `halo`, buttonText: {displayText: '😈خوش آمدید🥀'}, type: 1}
+{buttonId: `halo`, buttonText: {displayText: ''}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: ` 😈خوش آمدید🥀 به ${metadata.subject}`,
+fileName: ` ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©BALOCH EDIT 2022`,
+footer: ``,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `🥀خوش آمد گویی ربات بلوچ ادیت😈`,
-body: `😈چنل ما را سابسکرایب کنید🥀`,
+title: ``,
+body: ``,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
@@ -150,25 +150,25 @@ mediaUrl: link,
 ZimBotInc.sendMessage(anu.id, buttonMessage, {quoted:fgclink})
                 } else if (anu.action == 'remove') {
                     let fgclink = {key: {fromMe: false,"participant":"0@s.whatsapp.net", "remoteJid": "6289523258649-1604595598@g.us"}, "message": {orderMessage: {itemCount: 9999999,status: 200, thumbnail: buffer, surface: 200, message: `${metadata.subject}`, orderTitle: 'memek', sellerJid: '0@s.whatsapp.net'}}, contextInfo: {"forwardingScore":999,"isForwarded":true},sendEphemeral: true}
-                    he = `🥀کسی لایق بودن در گپ یا کانال رو نداره همین میشه😈 ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
-                    let link = `https://youtu.be/ww4z2m3uORU`
+                    he = ` ${metadata.subject} @${num.split("@")[0]}\n\n${metadata.desc}`
+                    let link = ``
 let buttons = [
-{buttonId: `halo`, buttonText: {displayText: '🥀خدافس😈'}, type: 1}
+{buttonId: `halo`, buttonText: {displayText: ''}, type: 1}
 ]
 let buttonMessage = {
 document: fs.readFileSync('./lib/tes.xlsx'),
 mimetype: feler,
 jpegThumbnail:buffer,
 mentions: [num],
-fileName: `🥀برو بدرک😈 ${metadata.subject}`,
+fileName: ` ${metadata.subject}`,
 fileLength: 99999999999999,
 caption: he,
-footer: `©BALOCH EDIT 2022`,
+footer: ``,
 buttons: buttons,
 headerType: 4,
 contextInfo:{externalAdReply:{
-title: `*🥀برو بدرک😈(این پیام از طرف ادمین کانال بلوچ ادیت هست)*`,
-body: `🥀چنل یوتیوبی مارو ساب کنید😈`,
+title: ``,
+body: ``,
 mediaType:2,
 thumbnail: buffer,
 sourceUrl: link,
