@@ -39,8 +39,8 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname = 'BALOCH EDIT'
-wm = 'BALOCH EDIT'
+botname = 'Sata'
+wm = 'sata'
 global.reactmoji = '🕊'
 limitCount = setting.limit
 
