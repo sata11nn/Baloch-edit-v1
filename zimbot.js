@@ -2609,11 +2609,11 @@ let drips = [
                     await sleep(1500)
 		            let btn = [{
           urlButton: {
-                  displayText: '🥀گیت‌هاب😈',
-                  url: 'https://github.com/BalochEdit'
+                  displayText: '',
+                  url: ''
           }
                             }]
-                      let txt = `「 *BALOCHEDIT* 」\n\n${text}`
+                      let txt = `「  」\n\n${text}`
                       ZimBotInc.send5ButImg(i, txt, botname, global.bc, btn)
                     }
                 m.reply(` *Send Broadcast To* ${anu.length} *Group*`)
@@ -2628,11 +2628,11 @@ let drips = [
 		    await sleep(1500)
 		    let btn = [{
           urlButton: {
-                  displayText: '🥀گیت‌هاب😈',
-                  url: 'https://github.com/BalochEdit'
+                  displayText: '',
+                  url: ''
           }
                             }]
-                      let txt = `「 *ZIMBOT BROADCAST* 」\n\n${text}`
+                      let txt = `「  」\n\n${text}`
                       ZimBotInc.send5ButImg(yoi, txt, botname, global.bc, btn)
 		}
 		m.reply('*Success Broadcast*')
@@ -2661,8 +2661,8 @@ case 'bcimage': case 'bcvideo': case 'bcaudio': {
                     await sleep(1500)
                     let butoon = [{
           urlButton: {
-                  displayText: `🥀گیت‌هاب😈`,
-                  url: 'https://github.com/BalochEdit'
+                  displayText: ``,
+                  url: ''
           }
                             },
                             {
