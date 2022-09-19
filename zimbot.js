@@ -7327,14 +7327,6 @@ anu = anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
 ┃⬤${prefix}lockcmd 
 ┗━━━━━━━━⦿
 
-┏━❰ *⚡️دانلودر⚡️* ❱
-┏━❰ *DOWNLOADER* ❱
-┃⬤${prefix}apk
-┃⬤${prefix}joox
-┃⬤${prefix}pindl
-┃⬤${prefix}fbmp3
-┃⬤${prefix}savefrom
-┃⬤${prefix}ytsvideo
 ┃⬤${prefix}getmusic
 ┃⬤${prefix}getvideo
 ┃⬤${prefix}ytsaudio
