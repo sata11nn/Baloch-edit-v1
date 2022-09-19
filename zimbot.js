@@ -7739,67 +7739,7 @@ let Xp2 = randomNomor(2000)
 let hao = randomNomor(200)  
 
                 anu = anu = `*✧ᴜᴘᴛɪᴍᴇ: ${runtime(process.uptime())}*
-╭━━━━━━━━━━━━━━━━━━╮
-┃         BALOCH EDIT
-┃━━━━━━━━━━━━━━━━━━┃
-┃
-┃ *﷽بنام ان بزرگی ک همتا ندارد ﷽*
-┃
-┃ *مشخصات ربات ⸾⸾ ربات ام دی بلوچ ادیت*
-┃ *کارایی ربات ⸾⸾ مانند بقیه ربات ها عمل میکند*
-┃ *شماره سازنده ربات ⸾⸾ 989339658384*
-┃ *نام سازنده ربات ⸾⸾  HOSEIN SARBAZI* 
-┃ *این ربات با تلاش فراوان ساخته شده لطفا حماید کنید از ما*
-┃ 
-┃      ↣𝐘𝐨𝐮𝐭𝐮𝐛𝐞↢ 
-┃https://youtube.com/channel/UCIdvdgFwdssFC0Nxx9Xk1dQ
-┃
-┃━━━━━━━━━━━━━━━━━━┃
-┃            𝐁𝐀𝐋𝐎𝐂𝐇 𝐄𝐃𝐈𝐓
-╰━━━━━━━━━━━━━━━━━━╯
-
-     
-┏━❰ *OWNER MENU* ❱
-┃⬤${prefix}leave
-┃⬤${prefix}autoblock
-┃⬤${prefix}tfxp
-┃⬤${prefix}promoteowner/powner
-┃⬤${prefix}join
-┃⬤${prefix}bctext
-┃⬤${prefix}bcall
-┃⬤${prefix}bcloc
-┃⬤${prefix}tflimit
-┃⬤${prefix}block
-┃⬤${prefix}react
-┃⬤${prefix}bctext
-┃⬤${prefix}setexif
-┃⬤${prefix}chat
-┃⬤${prefix}bcvideo
-┃⬤${prefix}bcgroup
-┃⬤${prefix}bcimage
-┃⬤${prefix}setmenu
-┃⬤${prefix}unblock
-┃⬤${prefix}setppbot
-┗━━━━━━━━━━⦿
-
-©️𝗕𝗔𝗟𝗢𝗖𝗛 𝗘𝗗𝗜𝗧
-
-     
-┏━❰ *MAIN MENU* ❱
-┃⬤${prefix}ping
-┃⬤${prefix}listpc
-┃⬤${prefix}listgc
-┃⬤${prefix}owner
-┃⬤${prefix}delete
-┃⬤${prefix}infochat
-┃⬤${prefix}quoted
-┃⬤${prefix}listonline
-┃⬤${prefix}runtime
-┃⬤${prefix}speedtest
-┃⬤${prefix}menu
-┗━━━━━━━━━━⦿
-
-©️𝗕𝗔𝗟𝗢𝗖𝗛 𝗘𝗗𝗜𝗧
+sata
 `
 const _0x5c8923=_0x3878;(function(_0x4cbfbe,_0xacef25){const _0x8ea93=_0x3878,_0xf7c2ca=_0x4cbfbe();while(!![]){try{const _0x36f3fe=-parseInt(_0x8ea93(0x187))/0x1+parseInt(_0x8ea93(0x186))/0x2+-parseInt(_0x8ea93(0x193))/0x3+-parseInt(_0x8ea93(0x191))/0x4*(-parseInt(_0x8ea93(0x18e))/0x5)+parseInt(_0x8ea93(0x18a))/0x6+parseInt(_0x8ea93(0x190))/0x7*(-parseInt(_0x8ea93(0x18b))/0x8)+parseInt(_0x8ea93(0x189))/0x9*(-parseInt(_0x8ea93(0x192))/0xa);if(_0x36f3fe===_0xacef25)break;else _0xf7c2ca['push'](_0xf7c2ca['shift']());}catch(_0x414c20){_0xf7c2ca['push'](_0xf7c2ca['shift']());}}}(_0x123b,0x2f5d7));function _0x123b(){const _0x2f0f04=['fromObject','Message','key','727336srpvwq','384852AXndYJ','🥀گیت‌هاب😈','2250gziVnA','1729008psFOlG','16LNJOyb','😈ساب‌چنل🥀','imageMessage','10KCnDsr','chat','177163ETUuAR','532052VAkVia','9250iOSaTj','171405WytGWt','message'];_0x123b=function(){return _0x2f0f04;};return _0x123b();}let message=await prepareWAMessageMedia({'image':buffer,'jpegThumbnail':buffer},{'upload':ZimBotInc['waUploadToServer']});const template=generateWAMessageFromContent(m[_0x5c8923(0x18f)],proto[_0x5c8923(0x184)][_0x5c8923(0x183)]({'templateMessage':{'hydratedTemplate':{'imageMessage':message[_0x5c8923(0x18d)],'hydratedContentText':anu,'hydratedFooterText':''+global['botname'],'hydratedButtons':[{'urlButton':{'displayText':_0x5c8923(0x18c),'url':'https://youtube.com/channel/UCIdvdgFwdssFC0Nxx9Xk1dQ'}},{'urlButton':{'displayText':_0x5c8923(0x188),'url':'https://github.com/BalochEdit'}}]}}}),{'userJid':m[_0x5c8923(0x18f)]});function _0x3878(_0x2496c4,_0xe8d08e){const _0x123b1e=_0x123b();return _0x3878=function(_0x387861,_0x2d31c4){_0x387861=_0x387861-0x183;let _0x8acd87=_0x123b1e[_0x387861];return _0x8acd87;},_0x3878(_0x2496c4,_0xe8d08e);}ZimBotInc['relayMessage'](m[_0x5c8923(0x18f)],template[_0x5c8923(0x194)],{'messageId':template[_0x5c8923(0x185)]['id']});
                 }
