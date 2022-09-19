@@ -2667,7 +2667,7 @@ case 'bcimage': case 'bcvideo': case 'bcaudio': {
                             },
                             {
           quickReplyButton: {
-                  displayText: '.',
+                  displayText: '',
                   id: ''
           }
                             }]
