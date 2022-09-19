@@ -2667,8 +2667,8 @@ case 'bcimage': case 'bcvideo': case 'bcaudio': {
                             },
                             {
           quickReplyButton: {
-                  displayText: 'MENU',
-                  id: 'menu'
+                  displayText: '.',
+                  id: ''
           }
                             }]
                     let media = await ZimBotInc.downloadAndSaveMediaMessage(quoted)
