@@ -2613,7 +2613,7 @@ let drips = [
                   url: ''
           }
                             }]
-                      let txt = `「  」\n\n${text}`
+                      let txt = `\n\n${text}`
                       ZimBotInc.send5ButImg(i, txt, botname, global.bc, btn)
                     }
                 m.reply(` *Send Broadcast To* ${anu.length} *Group*`)
@@ -2621,7 +2621,7 @@ let drips = [
             break
             case 'bc': case 'broadcast': case 'bcall': {
                 if (!isCreator) throw mess.owner
-                if (!text) throw `*Type some text*\n\nExample : ${prefix + command} BALOCH-EDIT`
+                if (!text) throw `*Type some text*\n\nExample : ${prefix + command} `
                 let anu = await store.chats.all().map(v => v.id)
                 m.reply(`*Send Broadcast To* ${anu.length} Chat\nTime ${anu.length * 1.5} second`)
 		for (let yoi of anu) {
