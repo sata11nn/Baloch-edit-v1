@@ -2676,10 +2676,10 @@ case 'bcimage': case 'bcvideo': case 'bcaudio': {
                     if (/webp/.test(mime)) {
                     ZimBotInc.sendMessage(i, { sticker: { url: media } }, { quoted: ftroli })
                     } else if (/image/.test(mime)) {
-                    let junn = `*_BROADCAST IMAGE_*${text ? '\n\n' + text : ''}`
-                    ZimBotInc.send5ButImg(i, junn, `BALOCH EDIT`, buffer, butoon)
+                    let junn = `${text ? '\n\n' + text : ''}`
+                    ZimBotInc.send5ButImg(i, junn, ``, buffer, butoon)
                     } else if (/video/.test(mime)) {
-                    let junn = `*_BROADCAST VIDIO_*${text ? '\n\n' + text : ''}`
+                    let junn = `${text ? '\n\n' + text : ''}`
                     ZimBotInc.sendMessage(i, {video: buffer, caption: `${junn}`}, { quoted: ftroli })
                     } else if (/audio/.test(mime)) {
                     ZimBotInc.sendMessage(i, {audio: buffer, mimetype: 'audio/mpeg'}, { quoted : ftroli })
