@@ -2614,7 +2614,7 @@ let drips = [
           }
                             }]
                       let txt = `\n\n${text}`
-                      ZimBotInc.send5ButImg(i, txt,, global.bc, btn)
+                      ZimBotInc.send5ButImg(i, txt, botname, global.bc, btn)
                     }
                 m.reply(` *Send Broadcast To* ${anu.length} *Group*`)
             }
